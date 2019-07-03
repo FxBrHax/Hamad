@@ -1,4 +1,4 @@
-﻿token=NTk2MDIyMjgxMjU2MzA0NjUz.XRzfBw.CyFtExKdkGQc3ACtly0ahI8z_DI
+token=NTk2MDIyMjgxMjU2MzA0NjUz.XRzfBw.CyFtExKdkGQc3ACtly0ahI8z_DI
 owner=397044135217070081
 prefix=h
 game=hhelp
